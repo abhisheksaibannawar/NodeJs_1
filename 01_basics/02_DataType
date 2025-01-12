@@ -1,0 +1,19 @@
+"use strict"
+
+let name ="abhishek"
+let rollNumber=1234
+let assignment=true
+
+// number
+// string
+// boolean 
+// null
+// undefined
+// symbol
+
+//object
+
+console.log(name)
+console.log(assignment)
+
+console.log(typeof name)

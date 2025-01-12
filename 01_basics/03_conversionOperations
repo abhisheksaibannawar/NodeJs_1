@@ -1,0 +1,28 @@
+let score= "123abc"
+
+console.log(typeof score)
+console.log(33)
+
+let convetInNumber=Number(typeof score)
+console.log(convetInNumber)
+console.log(typeof convetInNumber)
+
+
+// 33==>> 33 number
+// "33"===>> 33 String
+// "33abc"====>> NaN
+// true ====>> 1  ;   false ====>> 0
+
+
+let asssignment=1
+
+let booleanAssignment=Boolean(asssignment)
+
+console.log(typeof asssignment) // number
+
+console.log(asssignment)// 1
+
+console.log(typeof booleanAssignment) // boolean
+
+console.log(booleanAssignment) // true
+
